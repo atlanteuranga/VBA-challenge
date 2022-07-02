@@ -28,9 +28,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 * Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
 
-##Results
-
-![2014](2014 Stock Data Screenshot.png)
 
 
 
